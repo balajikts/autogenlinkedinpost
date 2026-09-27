@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Generated output
+output/
+
+# DeepEval
+.deepeval/  
+
+.linkedin_token.json
